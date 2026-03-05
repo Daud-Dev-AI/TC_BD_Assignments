@@ -1,0 +1,29 @@
+2026-02-27 12:09:19,015 - WARNING - Skipping row 2 — Missing age for 'Alice' | raw={'name': 'Alice', 'age': '', 'salary': '7000'}
+2026-02-27 12:09:19,015 - WARNING - Skipping row 3 — Invalid age 'abc' for 'Bob' | raw={'name': 'Bob', 'age': 'abc', 'salary': '4000'}
+2026-02-27 12:09:19,015 - WARNING - Missing salary for 'Tom' — defaulting to 0
+2026-02-27 12:09:19,015 - WARNING - Skipping row 9 — Missing age for 'Lisa' | raw={'name': 'Lisa', 'age': '', 'salary': '3000'}
+2026-02-27 12:09:19,016 - WARNING - Skipping row 11 — Invalid age 'abc' for 'Anna' | raw={'name': 'Anna', 'age': 'abc', 'salary': '7500'}
+2026-02-27 12:09:19,016 - WARNING - Skipping row 19 — Missing age for 'Laura' | raw={'name': 'Laura', 'age': '', 'salary': '5800'}
+2026-02-27 12:09:19,016 - WARNING - Skipping row 21 — Invalid age 'abc' for 'Helen' | raw={'name': 'Helen', 'age': 'abc', 'salary': '6800'}
+2026-02-27 12:09:19,016 - WARNING - Skipping row 27 — Invalid age 'abc' for 'Amanda' | raw={'name': 'Amanda', 'age': 'abc', 'salary': '5600'}
+2026-02-27 12:09:19,017 - WARNING - Skipping row 32 — Missing age for 'Gary' | raw={'name': 'Gary', 'age': '', 'salary': '8200'}
+2026-02-27 12:09:19,017 - WARNING - Skipping row 36 — Invalid age 'abc' for 'Paul' | raw={'name': 'Paul', 'age': 'abc', 'salary': '7100'}
+2026-02-27 12:09:19,017 - WARNING - Skipping row 42 — Invalid age 'abc' for 'Ronald' | raw={'name': 'Ronald', 'age': 'abc', 'salary': '9100'}
+2026-02-27 12:09:19,017 - WARNING - Skipping row 43 — Missing age for 'Sandra' | raw={'name': 'Sandra', 'age': '', 'salary': '6300'}
+2026-02-27 12:09:19,017 - WARNING - Skipping row 48 — Invalid age 'abc' for 'Ryan' | raw={'name': 'Ryan', 'age': 'abc', 'salary': '7900'}
+2026-02-27 12:09:33,887 - WARNING - Skipping row 2 — Missing age for 'Alice' | raw={'name': 'Alice', 'age': '', 'salary': '7000'}
+2026-02-27 12:09:33,888 - WARNING - Skipping row 3 — Invalid age 'abc' for 'Bob' | raw={'name': 'Bob', 'age': 'abc', 'salary': '4000'}
+2026-02-27 12:09:33,888 - WARNING - Missing salary for 'Tom' — defaulting to 0
+2026-02-27 12:09:33,888 - WARNING - Skipping row 9 — Missing age for 'Lisa' | raw={'name': 'Lisa', 'age': '', 'salary': '3000'}
+2026-02-27 12:09:33,889 - WARNING - Skipping row 11 — Invalid age 'abc' for 'Anna' | raw={'name': 'Anna', 'age': 'abc', 'salary': '7500'}
+2026-02-27 12:09:33,889 - WARNING - Skipping row 19 — Missing age for 'Laura' | raw={'name': 'Laura', 'age': '', 'salary': '5800'}
+2026-02-27 12:09:33,889 - WARNING - Skipping row 21 — Invalid age 'abc' for 'Helen' | raw={'name': 'Helen', 'age': 'abc', 'salary': '6800'}
+2026-02-27 12:09:33,889 - WARNING - Skipping row 27 — Invalid age 'abc' for 'Amanda' | raw={'name': 'Amanda', 'age': 'abc', 'salary': '5600'}
+2026-02-27 12:09:33,889 - WARNING - Skipping row 32 — Missing age for 'Gary' | raw={'name': 'Gary', 'age': '', 'salary': '8200'}
+2026-02-27 12:09:33,889 - WARNING - Skipping row 36 — Invalid age 'abc' for 'Paul' | raw={'name': 'Paul', 'age': 'abc', 'salary': '7100'}
+2026-02-27 12:09:33,890 - WARNING - Skipping row 42 — Invalid age 'abc' for 'Ronald' | raw={'name': 'Ronald', 'age': 'abc', 'salary': '9100'}
+2026-02-27 12:09:33,890 - WARNING - Skipping row 43 — Missing age for 'Sandra' | raw={'name': 'Sandra', 'age': '', 'salary': '6300'}
+2026-02-27 12:09:33,890 - WARNING - Skipping row 48 — Invalid age 'abc' for 'Ryan' | raw={'name': 'Ryan', 'age': 'abc', 'salary': '7900'}
+2026-02-27 12:09:33,892 - INFO - =============================================
+2026-02-27 12:09:33,892 - INFO - Processing complete.
+2026-02-27 12:09:33,892 - INFO - Total: 50 | Valid: 38 | Bad age: 12 | Missing salary: 1 | Other errors: 0

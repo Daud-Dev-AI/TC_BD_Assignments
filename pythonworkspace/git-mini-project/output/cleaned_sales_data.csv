@@ -1,0 +1,9 @@
+order_id,customer,region,product,category,sales_amount,order_date,tax_amount,total_with_tax
+1,Alice,North,Laptop,Electronics,1200.0,2023-01-10,120.0,1320.0
+2,Bob,South,Phone,Electronics,800.0,2023-01-12,80.0,880.0
+4,David,East,Laptop,Electronics,1500.0,2023-01-15,150.0,1650.0
+6,Frank,West,Monitor,Electronics,600.0,2023-01-18,60.0,660.0
+7,Grace,East,Keyboard,Accessories,200.0,2023-01-20,20.0,220.0
+8,Hannah,North,Mouse,Accessories,150.0,2023-01-22,15.0,165.0
+9,Ian,West,Laptop,Electronics,1300.0,2023-01-25,130.0,1430.0
+10,Jane,South,Tablet,Electronics,900.0,2023-01-27,90.0,990.0

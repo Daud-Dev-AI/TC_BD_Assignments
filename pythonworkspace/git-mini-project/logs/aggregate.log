@@ -1,0 +1,12 @@
+2026-03-03 13:36:05  INFO      Loading cleaned CSV from 'C:\pythonworkspace\git-mini-project\output\cleaned_sales_data.csv'
+2026-03-03 13:36:05  INFO      Loaded 8 rows
+2026-03-03 13:36:05  INFO      Grouping sales by region
+2026-03-03 13:36:05  INFO      Region summary:
+region  total_sales
+  West       1900.0
+  East       1700.0
+ South       1700.0
+ North       1350.0
+2026-03-03 13:36:05  INFO      Total Sales:   6650.00
+2026-03-03 13:36:05  INFO      Average Sales: 831.25
+2026-03-03 13:36:05  INFO      Summary saved to 'C:\pythonworkspace\git-mini-project\output\sales_summary.csv'

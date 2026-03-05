@@ -1,0 +1,8 @@
+2026-03-03 13:36:04  INFO      Loading CSV from 'C:\pythonworkspace\git-mini-project\data\sales_data.csv'
+2026-03-03 13:36:04  INFO      Loaded 10 rows
+2026-03-03 13:36:04  INFO      Converting 'sales_amount' to numeric
+2026-03-03 13:36:04  WARNING   Removing invalid row — order_id=3, customer=Charlie, sales_amount=nan
+2026-03-03 13:36:04  WARNING   Removing invalid row — order_id=5, customer=Eve, sales_amount=nan
+2026-03-03 13:36:04  INFO      Removed 2 invalid row(s); 8 rows remain
+2026-03-03 13:36:04  INFO      Adding tax columns at rate 10%
+2026-03-03 13:36:04  INFO      Cleaned data saved to 'C:\pythonworkspace\git-mini-project\output\cleaned_sales_data.csv'
