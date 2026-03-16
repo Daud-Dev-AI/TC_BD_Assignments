@@ -16,8 +16,8 @@ import pandas as pd
 #     keep_default_na=False
 # )
 
-df = pd.read_csv("data.csv")
-dfsales = pd.read_csv("sales_data.csv")
+df = pd.read_csv(r"C:\TCAssignments\pythonworkspace\data.csv")
+dfsales = pd.read_csv(r"C:\TCAssignments\pythonworkspace\sales_data.csv")
 
 print(df.shape)
 print(df.columns)
